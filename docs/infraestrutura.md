@@ -29,13 +29,3 @@ O código-fonte do projeto está organizado da seguinte forma:
 2. git push para o GitHub
 3. Redeploy automático na Render
 4. URL sempre atualizada com a versão mais recente
-
-## Papel: Administração e Sistemas
-
-Responsável por:
-
-- Organização da estrutura do repositório
-- Deploy da aplicação na nuvem
-- Garantia de disponibilidade do sistema
-- Definição da arquitetura de pastas
-- Implementação do fluxo DevOps
