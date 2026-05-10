@@ -1,4 +1,4 @@
-EcoChain – Supply Chain & Descarbonização 🇧🇷Plataforma integrada ao PID E+ para mapeamento de cadeias produtivas brasileiras com camada de decisão baseada em impacto de CO₂.
+*EcoChain – Supply Chain & Descarbonização* 🇧🇷Plataforma integrada ao PID E+ para mapeamento de cadeias produtivas brasileiras com camada de decisão baseada em impacto de CO₂.
 Este projeto foi desenvolvido para o Hackathon E+, com o objetivo de resolver dores reais da economia brasileira através da visibilidade da cadeia de suprimentos e sustentabilidade.  
 
 🚀 Visão Geral
