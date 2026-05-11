@@ -1,4 +1,11 @@
-
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-green)
+![Express](https://img.shields.io/badge/API-Express-lightgrey)
+![Leaflet](https://img.shields.io/badge/Maps-Leaflet-brightgreen)
+![ESG](https://img.shields.io/badge/Focus-ESG%20%7C%20CO2-success)
+![Render](https://img.shields.io/badge/Deploy-Render-black)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
+![Status](https://img.shields.io/badge/Status-Production-success)
 
 # EcoChain – Supply Chain & Descarbonização 🌱
 
