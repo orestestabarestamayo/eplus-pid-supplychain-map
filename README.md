@@ -174,17 +174,6 @@ Configuração de CORS para comunicação segura entre frontend e backend.
 
 ### Diagrama de Arquitetura
 
-```mermaid
-flowchart LR
-    U[Usuário / Browser]
-    F[Frontend - React + Leaflet\nVercel]
-    B[Backend API - Node.js + Express\nRender]
-    D[Simulação CO₂ + Dados Logísticos]
-
-    U --> F
-    F -->|HTTP JSON| B
-    B --> D
-
 ---
 
 # 📁 Estrutura do Projeto
